@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    min-height: 100vh;
+}
+
+.content .logo {
+    width: 15rem;
+    margin-bottom: 1.5rem;
+}
+
+.content .content-incluse {
+    width: 50%;
+}
+
+.content .content-incluse form {
+    width: 100%;
+}
